@@ -91,3 +91,6 @@ let emp2: Person = emp.find('Steve');
 
 console.log(emp);
 console.log(emp2);
+
+
+/// Let's write Shape problem :)
